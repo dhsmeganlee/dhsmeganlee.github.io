@@ -1,11 +1,15 @@
-<li> Travelling and Exploring places
-<li> Reading Adventure Books</li>
-</ul>
-<p><a href= "test.html"> Test Page</a>
+h1{
+  
+  font=family: verdana;
+  colour:blue;
+}
 
-</body>
-</html>
+h2{
+  font=family:verdana;
+  color:blue;
+}
 
-Github directory:
-test.html
-test.css
+body{
+  background-color: #33ccff;
+}
+    
